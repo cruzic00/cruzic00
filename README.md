@@ -1,48 +1,101 @@
-<h1 align="center">Hi 👋, I'm Sooraj bs</h1>
-<h3 align="center">A passionate developer from Kerala, India</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi,%20I'm%20Sooraj%20BS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Kerala,%20India&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://cruzic00.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cruzic00&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🌱 I'm currently learning **Full-Stack Development**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **your.email@gmail.com**
+<p align="center">
+  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:soorajbsz515@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sooraj-b-s-974120324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year B.Sc. Computer Science @ IHRD, Kerala
+- 🌱 Currently mastering **Full-Stack Development & AI Integration**
+- 💬 Ask me about **JavaScript, React, Node.js, Flutter**
+- 📫 Reach me: **soorajbsz515@gmail.com**
 - ⚡ Fun fact: **I love temples and tech equally**
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cruzic00&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cruzic00&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,python,git,github,vscode,figma,mongodb,tailwind,nextjs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzic00&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+## 🛠️ Tech Stack
 
-![snake gif](https://raw.githubusercontent.com/cruzic00/cruzic00/output/github-contribution-grid-snake.svg)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,tailwind,threejs" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase,redis,prisma" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,netlify,vercel,nginx,apache,cloudflare,githubactions,linux,raspberrypi" />
+</p>
+
+### 🤖 AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+</p>
+
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,blender,unity,threejs,ps,ai,ae,xd,pr" />
+</p>
+
+### 🔧 Dev Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,webpack,cpp" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 ---
 
-### 🤝 Connect with me
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cruzic00/cruzic00/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cruzic00/cruzic00/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/cruzic00/cruzic00/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:soorajbsz515@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sooraj-b-s-974120324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
