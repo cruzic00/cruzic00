@@ -77,13 +77,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Antigravity-FF4500?style=for-the-badge&logo=rocket.chat&logoColor=white" /></a>
 </p>
 
-<!-- Kling AI, Gamma, Antigravity — simple-icons-il illa, so badges use cheyyunnu -->
-<p>
-  <img src="https://img.shields.io/badge/Kling_AI-FF6B35?style=for-the-badge&logo=bytedance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gamma-6C63FF?style=for-the-badge&logo=slides&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-FF4500?style=for-the-badge&logoColor=white"/>
-</p>
-
 ### 🧠 AI / ML Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,python" />
