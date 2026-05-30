@@ -10,9 +10,9 @@
   <a href="https://www.instagram.com/YOUR_INSTA" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:soorajbsz515@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c0392b"/>
-  </a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soorajbsz515@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c0392b"/>
+</a>
   <a href="https://linkedin.com/in/sooraj-b-s-974120324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
   </a>
