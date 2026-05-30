@@ -7,7 +7,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.instagram.com/YOUR_INSTA" target="_blank">
+  <a href="https://https://www.instagram.com/mr__cruzic?igsh=NmlwdXlrdzhqcmxn&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
   </a>&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soorajbsz515@gmail.com" target="_blank">
