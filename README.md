@@ -24,7 +24,7 @@
 
 - 🎓 im a Full stack developer 
 - 🌱 Currently mastering **Full-Stack Development & AI Integration**
-- 💬 Ask me about **JavaScript, React, Node.js, Flutter**
+- 💬 Freelance **With low price**
 - 📫 Reach me: **soorajbsz515@gmail.com**
 - ⚡ Fun fact: **codes for survival**
 
