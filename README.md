@@ -4,21 +4,29 @@
   <img src="https://komarev.com/ghpvc/?username=cruzic00&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+### 🤝 Let's Connect
+
 <p align="center">
-  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:soorajbsz515@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sooraj-b-s-974120324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/YOUR_INSTA" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:soorajbsz515@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c0392b"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sooraj-b-s-974120324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Sc. Computer Science @ IHRD, Kerala
+- 🎓 im a Full stack developer 
 - 🌱 Currently mastering **Full-Stack Development & AI Integration**
 - 💬 Ask me about **JavaScript, React, Node.js, Flutter**
 - 📫 Reach me: **soorajbsz515@gmail.com**
-- ⚡ Fun fact: **I love temples and tech equally**
+- ⚡ Fun fact: **codes for survival**
 
 ---
 
