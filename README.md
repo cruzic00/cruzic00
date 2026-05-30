@@ -63,15 +63,18 @@
 
 ### 🤖 AI Tools & Platforms
 
-<p>
-  <img height="50" src="https://cdn.simpleicons.org/openai/10A37F" title="ChatGPT"/>&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/anthropic/CC7B27" title="Claude"/>&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/googlegemini/8E75B2" title="Gemini"/>&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/perplexity/20808D" title="Perplexity"/>&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/x/FFFFFF" title="Grok"/>&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/cursor/FFFFFF" title="Cursor"/>&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/adobecreativecloud/FF0000" title="Adobe Firefly"/>&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/google/4285F4" title="Google AI Studio"/>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Claude-CC7B27?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cursor-1a1a1a?style=for-the-badge&logo=cursor&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Adobe_Firefly-2D0101?style=for-the-badge&logo=adobecreativecloud&logoColor=FF0000" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kling_AI-FF6B35?style=for-the-badge&logo=bytedance&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gamma-6C63FF?style=for-the-badge&logo=slides&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Antigravity-FF4500?style=for-the-badge&logo=rocket.chat&logoColor=white" /></a>
 </p>
 
 <!-- Kling AI, Gamma, Antigravity — simple-icons-il illa, so badges use cheyyunnu -->
