@@ -81,10 +81,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,python" />
 </p>
 
-### 🤖 AI & ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
-</p>
+
 
 ### 🎨 Design & Creative Tools
 <p>
