@@ -64,16 +64,16 @@
 ### 🤖 AI Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-CC7B27?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-404040?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kling%20AI-FF6B35?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gamma-6C63FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-FF4500?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Firefly-eb1000?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kling_AI-FF6B35?style=for-the-badge&logo=bytedance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gamma-6C63FF?style=for-the-badge&logo=slides&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-FF4500?style=for-the-badge&logo=rocket.chat&logoColor=white"/>
 </p>
 
 ### 🧠 AI / ML Frameworks
