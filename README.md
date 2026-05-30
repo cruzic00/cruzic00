@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Kerala, India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://cruzic00.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 - 🌱 I'm currently learning **Full-Stack Development**
