@@ -26,7 +26,8 @@
 - 🌱 Currently mastering **Full-Stack Development & AI Integration**
 - 💬 Freelance **With low price**
 - 📫 Reach me: **soorajbsz515@gmail.com**
-- ⚡ Fun fact: **codes for survival**
+- ⚡ Keep Learning.....
+               Until "L" is Silent....
 
 ---
 
