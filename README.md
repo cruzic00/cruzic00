@@ -42,6 +42,11 @@
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cruzic00&theme=tokyonight" width="32%"/>
   </p>
 </div>  
+
+<p align="center">
+  <img src="assets/download.webp" width="32%"/>
+</p>
+
  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cruzic00&theme=tokyonight" width="32%"/>
 </p>
