@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi,%20I'm%20Sooraj%20BS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Kerala,%20India&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=160&section=header" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=900&height=90&lines=Hi%2C+I'm+Sooraj+BS;Full+Stack+Developer;Kerala%2C+India" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cruzic00&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -38,45 +42,46 @@
   <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cruzic00&theme=tokyonight" width="98%"/> </a>
 </p>
 
-<p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cruzic00&theme=tokyonight" width="32%"/>
-  </p>
-</div>  
-
-<p align="center">
-  <img src="assets/typing.gif" width="32%"/>
-</p>
-
- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cruzic00&theme=tokyonight" width="32%"/>
-</p>
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=cruzic00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+    </td>
+    <td valign="middle">
+      <img src="assets/typing.gif" height="160"/>
+    </td>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzic00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,tailwind,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,tailwind,threejs" height="40" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi" height="40" />
 </p>
 
 ### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react" height="40" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase,redis,prisma" height="40" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,netlify,vercel,nginx,apache,cloudflare,githubactions,linux,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,netlify,vercel,nginx,apache,cloudflare,githubactions,linux,raspberrypi" height="40" />
 </p>
 
 ### 🤖 AI Tools & Platforms
@@ -97,19 +102,19 @@
 
 ### 🧠 AI / ML Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" height="40" />
 </p>
 
 
 
 ### 🎨 Design & Creative Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,blender,unity,threejs,ps,ai,ae,xd,pr" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,unity,threejs,ps,ai,ae,xd,pr" height="40" />
 </p>
 
 ### 🔧 Dev Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,webpack,cpp" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,webpack,cpp" height="40" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
