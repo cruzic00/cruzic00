@@ -36,10 +36,6 @@
 
  ## 📊 GitHub Stats
 
-<p align="center">
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cruzic00&theme=tokyonight" width="98%"/> </a>
-</p>
-
 <table align="center">
   <tr>
     <td valign="middle">
