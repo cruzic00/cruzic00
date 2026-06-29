@@ -45,9 +45,6 @@
 <table align="center">
   <tr>
     <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=cruzic00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-    </td>
-    <td valign="middle">
       <img src="assets/typing.gif" height="160"/>
     </td>
     <td valign="middle">
