@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=160&section=header" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=900&height=90&lines=Hi%2C+I'm+Sooraj+BS;Full+Stack+Developer;Kerala%2C+India" alt="Typing SVG" />
+  <img width="100%" src="assets/header.svg" alt="Hi, I'm Sooraj BS - Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -45,13 +43,13 @@
 <table align="center">
   <tr>
     <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=cruzic00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cruzic00&theme=tokyonight" height="175"/>
     </td>
     <td valign="middle">
-      <img src="assets/typing.gif" height="160"/>
+      <img src="assets/typing.gif" height="150"/>
     </td>
     <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzic00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cruzic00&theme=tokyonight" height="175"/>
     </td>
   </tr>
 </table>
