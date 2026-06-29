@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.instagram.com/mr__cruzic?igsh=NmlwdXlrdzhqcmxn&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soorajbsz515@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c0392b"/>
 </a>
@@ -26,23 +26,26 @@
 - 🌱 Currently mastering **Full-Stack Development & AI Integration**
 - 💬 Freelance **With low price**
 - 📫 Reach me: **soorajbsz515@gmail.com**
-- ⚡ Keep Learning.....
-               Until "L" is Silent....
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cruzic00&theme=tokyonight" width="98%"/>
+<p align="center"> 
+    <br> Keep Learning.....📖 </br>
+      Until "L" is Silent....💀💸  
 </p>
 
+ ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cruzic00&theme=tokyonight" width="32%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cruzic00&theme=tokyonight&hide_border=true" width="32%"/>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cruzic00&theme=tokyonight" width="98%"/> </a>
+</p>
+
+<p align="left">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cruzic00&theme=tokyonight" width="32%"/> 
+  </p>
+  
+ <p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cruzic00&theme=tokyonight" width="32%"/>
 </p>
----
+
 
 ## 🛠️ Tech Stack
 
