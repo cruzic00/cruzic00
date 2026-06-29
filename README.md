@@ -44,7 +44,7 @@
 </div>  
 
 <p align="center">
-  <img src="assets/download.webp" width="32%"/>
+  <img src="assets/typing.gif" width="32%"/>
 </p>
 
  <p align="center">
