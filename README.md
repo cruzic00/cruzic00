@@ -106,7 +106,7 @@
   <img src="https://skillicons.dev/icons?i=figma,blender,unity,threejs,ps,ai,ae,xd,pr" height="40" />
 </p>
 
-### 🔧 Dev Tools & Others
+### 🔧 Dev Tools & Other
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,postman,webpack,cpp" height="40" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
